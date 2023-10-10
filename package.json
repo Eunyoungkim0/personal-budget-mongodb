@@ -1,0 +1,29 @@
+{
+  "name": "personal-budget-mongodb",
+  "version": "1.0.0",
+  "description": "The path to NGInx main folder: /usr/share/nginx/html",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "Eunyoung": "echo Eunyoung!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eunyoungkim0/personal-budget-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eunyoungkim0/personal-budget-mongodb/issues"
+  },
+  "homepage": "https://github.com/Eunyoungkim0/personal-budget-mongodb#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mongoose": "^7.6.1"
+  }
+}
